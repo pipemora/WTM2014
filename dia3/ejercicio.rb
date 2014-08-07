@@ -2,7 +2,7 @@ puts "Escriba un número:"
 
 a= gets.chomp.to_i
 
-
+#Y esto que hace?
 
 if a == 6 then
 
