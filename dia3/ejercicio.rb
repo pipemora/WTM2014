@@ -2,7 +2,9 @@ puts "Escriba un número:"
 
 a= gets.chomp.to_i
 
-#Y esto que hace?
+=begin
+MK sigo sin entender
+=end
 
 if a == 6 then
 
